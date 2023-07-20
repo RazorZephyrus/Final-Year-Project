@@ -1,0 +1,390 @@
+{
+  "metadata": {
+    "path": "/v3/location/provinces?country_id=228&limit=100",
+    "http_status_code": 200,
+    "http_status": "OK",
+    "timestamp": 1645092178
+  },
+  "data": [
+    {
+      "id": 1,
+      "name": "Bali",
+      "lat": -8.4095178,
+      "lng": 115.188916,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bangka Belitung",
+      "lat": -2.7410513,
+      "lng": 106.4405872,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Banten",
+      "lat": -6.4058172,
+      "lng": 106.0640179,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Bengkulu",
+      "lat": -3.7928451,
+      "lng": 102.2607641,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 5,
+      "name": "DI Yogyakarta",
+      "lat": -7.7975915,
+      "lng": 110.3707141,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 6,
+      "name": "DKI Jakarta",
+      "lat": -6.1744651,
+      "lng": 106.822745,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Gorontalo",
+      "lat": 0.5435442,
+      "lng": 123.0567693,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Jambi",
+      "lat": -1.6101229,
+      "lng": 103.6131203,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Jawa Barat",
+      "lat": -7.090911,
+      "lng": 107.668887,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Jawa Tengah",
+      "lat": -7.150975,
+      "lng": 110.1402594,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Jawa Timur",
+      "lat": -7.5360639,
+      "lng": 112.2384017,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Kalimantan Barat",
+      "lat": -0.2787808,
+      "lng": 111.4752851,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Kalimantan Selatan",
+      "lat": -3.0926415,
+      "lng": 115.2837585,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Kalimantan Tengah",
+      "lat": -1.6814878,
+      "lng": 113.3823545,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Kalimantan Timur",
+      "lat": 0.5386586,
+      "lng": 116.419389,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Kalimantan Utara",
+      "lat": 3.0730929,
+      "lng": 116.0413889,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Kepulauan Riau",
+      "lat": 3.9456514,
+      "lng": 108.1428669,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Lampung",
+      "lat": -4.5585849,
+      "lng": 105.4068079,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Maluku Utara",
+      "lat": -3.2384616,
+      "lng": 130.1452734,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Maluku",
+      "lat": 1.5709993,
+      "lng": 127.8087693,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Aceh",
+      "lat": 4.695135,
+      "lng": 96.7493993,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Nusa Tenggara Barat",
+      "lat": -8.6529334,
+      "lng": 117.3616476,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Nusa Tenggara Timur",
+      "lat": -8.6573819,
+      "lng": 121.0793705,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Papua Barat",
+      "lat": -4.269928,
+      "lng": 138.0803529,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Papua",
+      "lat": -1.3361154,
+      "lng": 133.1747162,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Riau",
+      "lat": 0.2933469,
+      "lng": 101.7068294,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Sulawesi Barat",
+      "lat": -2.8441371,
+      "lng": 119.2320784,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Sulawesi Selatan",
+      "lat": -3.6687994,
+      "lng": 119.9740534,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Sulawesi Tengah",
+      "lat": -1.4300254,
+      "lng": 121.4456179,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Sulawesi Tenggara",
+      "lat": -1.4300254,
+      "lng": 121.4456179,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Sulawesi Utara",
+      "lat": 0.6246932,
+      "lng": 123.9750018,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Sumatera Barat",
+      "lat": -0.7399397,
+      "lng": 100.8000051,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Sumatera Selatan",
+      "lat": -3.3194374,
+      "lng": 103.914399,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Sumatera Utara",
+      "lat": 2.0108563,
+      "lng": 98.9784887,
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "current_elements": 34,
+    "total_pages": 1,
+    "total_elements": 34
+  }
+}

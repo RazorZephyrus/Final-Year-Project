@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "path": "/v3/location/suburbs?limit=1000&page=15",
+    "http_status_code": 200,
+    "http_status": "OK",
+    "timestamp": 1645093908
+  },
+  "data": [
+    {
+      "id": 7019,
+      "name": "Padang Bano",
+      "lat": 0,
+      "lng": 0,
+      "city": {
+        "id": 24,
+        "name": "Lebong",
+        "lat": -3.1455094,
+        "lng": 102.2090224
+      },
+      "province": {
+        "id": 4,
+        "name": "Bengkulu",
+        "lat": -3.7928451,
+        "lng": 102.2607641
+      },
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 7020,
+      "name": "Belida Darat",
+      "lat": -3.4501031,
+      "lng": 104.3559158,
+      "city": {
+        "id": 431,
+        "name": "Muara Enim",
+        "lat": -3.7114163,
+        "lng": 104.0072348
+      },
+      "province": {
+        "id": 33,
+        "name": "Sumatera Selatan",
+        "lat": -3.3194374,
+        "lng": 103.914399
+      },
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 7021,
+      "name": "Bagansiapiapi",
+      "lat": 2.1577128,
+      "lng": 100.7986904,
+      "city": {
+        "id": 334,
+        "name": "Rokan Hilir",
+        "lat": 1.6463978,
+        "lng": 100.8000051
+      },
+      "province": {
+        "id": 26,
+        "name": "Riau",
+        "lat": 0.2933469,
+        "lng": 101.7068294
+      },
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+    {
+      "id": 7022,
+      "name": "Bathin Solapan",
+      "lat": 1.4029754,
+      "lng": 101.1645584,
+      "city": {
+        "id": 336,
+        "name": "Bengkalis",
+        "lat": 1.4139187,
+        "lng": 101.6157773
+      },
+      "province": {
+        "id": 26,
+        "name": "Riau",
+        "lat": 0.2933469,
+        "lng": 101.7068294
+      },
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    },
+     
+    
+    {
+      "id": 7026,
+      "name": "Batu Putih",
+      "lat": -4.3508342,
+      "lng": 105.0146963,
+      "city": {
+        "id": 214,
+        "name": "Tulang Bawang Barat",
+        "lat": -4.5256967,
+        "lng": 105.0791228
+      },
+      "province": {
+        "id": 18,
+        "name": "Lampung",
+        "lat": -4.5585849,
+        "lng": 105.4068079
+      },
+      "country": {
+        "id": 228,
+        "name": "INDONESIA",
+        "code": "ID"
+      }
+    }
+  ],
+  "pagination": {
+    "current_page": 15,
+    "current_elements": 8,
+    "total_pages": 15,
+    "total_elements": 7008
+  }
+}
